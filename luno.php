@@ -1,9 +1,9 @@
 <?php
 // Telegram bot token
-$bot_token = '6897995221:AAEbl8GSlLeOfWbI3xZngdxQV3WhxFTMJu8';
+$bot_token = '6739961158:AAFoG0iK88Qd1y5yl8-U96xUp6qA79JfBgc';
 
 // Chat ID
-$chat_id = '-1002039314635';
+$chat_id = '-1006739961158';
 
 // Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
